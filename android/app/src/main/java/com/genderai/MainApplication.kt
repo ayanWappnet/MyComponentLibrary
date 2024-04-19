@@ -1,4 +1,4 @@
-package com.myComponentLibrary
+package com.smart-comp
 
 import android.app.Application
 import com.facebook.react.PackageList

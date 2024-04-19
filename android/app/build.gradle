@@ -74,9 +74,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.myComponentLibrary"
+    namespace "com.smart-comp"
     defaultConfig {
-        applicationId "com.myComponentLibrary"
+        applicationId "com.smart-comp"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

@@ -1,4 +1,4 @@
-package com.smart-comp
+package com.smart.comp
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
